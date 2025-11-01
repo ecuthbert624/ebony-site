@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Two Days Left",
+    "category": "Fiction",
+    "year": 2025,
+    "url": "two_days_left.html",
+    "summary": "Flash fiction set in Venice — Tom races against rising water and time to return home.",
+    "tags": ["fiction","flash","writing"],
+    "image": "assets/thumb_blog1.svg"
+  },
+  {
+    "title": "The Drop-Off",
+    "category": "Fiction",
+    "year": 2025,
+    "url": "drop_off.html",
+    "summary": "A flash fiction story set in Venice.",
+    "tags": ["fiction","writing"],
+    "image": "assets/thumb_dropoff.svg"
+  },
+  {
+    "title": "Advice Media Piece — Intro to Media Comm",
+    "category": "Media",
+    "year": 2025,
+    "url": "advice_media_project.html",
+    "summary": "A multimedia advice project for Intro to Media Communications.",
+    "tags": ["media","video"],
+    "image": "assets/thumb_advice.svg"
+  },
+  {
+    "title": "Campaign Analysis — Nike & Ozempic",
+    "category": "Strategy",
+    "year": 2025,
+    "url": "campaign_analysis.html",
+    "summary": "An analytical breakdown of branding strategy and ad resonance.",
+    "tags": ["marketing","analysis"],
+    "image": "assets/thumb_campaign.svg"
+  }
+]
+
